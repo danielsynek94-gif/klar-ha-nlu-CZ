@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versions follow Home Assistant calendar versioning (`YYYY.M.PATCH`)
 and [Conventional Commits](https://www.conventionalcommits.org/).
 
+## [2026.11.1](https://github.com/FABBricate-IT-Solutions/klar-ha-nlu/compare/2026.11.0...2026.11.1) - 2026-11-08
+
+
+
+### Other
+
+- Fix casing in GHCR image name([31512ec](https://github.com/FABBricate-IT-Solutions/klar-ha-nlu/commit/31512ec7f6d76647c3306d764e8b0c9a014fdecf))
+
 ## [2026.11.0](https://github.com/FABBricate-IT-Solutions/klar-ha-nlu/releases/tag/2026.11.0) - 2026-11-08
 
 
